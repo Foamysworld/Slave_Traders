@@ -19,9 +19,6 @@ Here we go!
 
 Step 1:
 
-Extract the scripts you downloaded:
-
-Script list included in download:
 fn_sellHostage.sqf
 fn_sellHostageAction.sqf
 fn_getoutofSlavery.sqf
